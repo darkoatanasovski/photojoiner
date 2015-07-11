@@ -2,6 +2,8 @@
 Photojoiner is a javascript lightweight library (880 B) for joining photos. You can use this library without jQuery.
 more info you can find at http://atanasovski.tumblr.com/post/123801355666/join-photos-with-photojoiner-javascript-library
 
+#Demo https://jsfiddle.net/darkoatanasovski/feLd5u1b/
+
 #Basic usage
 
 Load photojoiner.js or photojoiner.min.js in the end of the document ( to stop render blocking )
