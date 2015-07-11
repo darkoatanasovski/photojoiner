@@ -4,7 +4,7 @@ Photojoiner is a javascript lightweight library (880 B) for joining photos. You 
 Basic usage
 
 Load photojoiner.js or photojoiner.min.js in the end of the document ( to stop render blocking )
-```
+```javascript
 <script type="text/javascript" src="photojoiner.js"></script>
 
 <script>
