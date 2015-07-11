@@ -28,7 +28,7 @@ photojoiner.join({
 
 Except required parameter images, you can pass more parameters to adjust photojoiner
 
-images
+#### images
 
 Array of urls. This parameter is required
 ```javascript
@@ -36,7 +36,7 @@ photojoiner.join({
   'images' : ['image1.jpg','image2.jpg',’image3.jpg']
 }); 
 ```
-canvasHeight
+#### canvasHeight
 
 Integer value for height of the container. Default value is 350 that means, the output image will be with height of 350px and pictures will bi scaled to the height
 ```javascript
@@ -46,7 +46,7 @@ photojoiner.join({
 'canvasHeight': 500
 }); 
 ```
-canvas
+#### canvas
 
 HTML dom node. Default is canvas element with id joined. You can send your own canvas element
 ```javascript
