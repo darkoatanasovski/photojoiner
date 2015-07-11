@@ -2,7 +2,7 @@
 Photojoiner is a javascript lightweight library (880 B) for joining photos. You can use this library without jQuery.
 more info you can find at http://atanasovski.tumblr.com/post/123800073241/join-multiple-photos-with-pure-javascript-library
 
-|Basic usage
+#Basic usage
 
 Load photojoiner.js or photojoiner.min.js in the end of the document ( to stop render blocking )
 ```javascript
@@ -22,7 +22,7 @@ photojoiner.join({
 
 </script>
 ```javascript
-Advance usage
+#Advanced usage
 
 Except required parameter images, you can pass more parameters to adjust photojoiner
 
@@ -54,7 +54,7 @@ photojoiner.join({
 'canvas':document.getElementById('my_canvas_element')
 }); 
 ```
-How many pictures can i join?
+#How many pictures can i join?
 
 You can join unlimited pictures. Send urls of the pictures as a parameter, and photojoiner will join all pictures.
 Example output with more than two pictures
